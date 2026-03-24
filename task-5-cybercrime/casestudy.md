@@ -1,1 +1,8 @@
+# Ransomware attack against Nordic Choice Hotels
+A glitch swept through Nordic Choice Hotels near the end of 2021, rattling guest stays across northern Europe. Right ahead of holiday travel peaks, their computers locked up - no access meant reception queues piled high. With programs down, staff scribbled check-in info on sheets rather than tapping keyboards. Room keys stopped responding, which left team members unlocking every door one at a time manually. Work limped forward this way until spare systems trickled back to life.
 
+One way ransomware strikes involves gradual steps. Sneaky emails or weak passwords create openings, rather than solid protection methods. Once inside, attackers creep through linked machines, hunting key data quietly. When they lock things down, scrambling happens fast - no heads-up given. Money demands follow, typically asking for online cash forms.
+
+Inside the hotel chain's core system, intruders struck where daily functions depend most. Large hospitality firms face repeated targeting because their business runs almost entirely through connected devices - any halt brings steep losses. Though proof of stolen visitor data didn’t surface, guests still faced delays at reception desks. Some amenities remained out of reach during those hours simply due to disrupted links behind the scenes.
+
+Falling into cash loss stings - trust slips away just as fast, sparking frustration among those dealing with it daily. From chaos like this, one thing stands out: being alert online has become essential lately. Strong defenses mean little without ongoing practice helping staff catch threats early.
