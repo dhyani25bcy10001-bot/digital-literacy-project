@@ -32,4 +32,26 @@ Other platforms such as Quora, Stack Overflow, and ResearchGate help in learning
 Overall, these platforms help students improve their skills, build credibility, and prepare for future opportunities.
 
 ## Module 3 Summary
+Programming and collaborative learning platforms are an important part of digital literacy, as they help students develop technical skills and work effectively with others online. Platforms like HackerRank, CodeChef, and HackerEarth allow students to practice coding, improve problem-solving skills, and prepare for technical interviews.
 
+On the other hand, collaborative platforms such as Google Forms, Google Docs, and Google Sheets enable students to work together in real time, share ideas, and manage data efficiently. These tools are especially useful for group projects, surveys, and academic tasks.
+
+In the context of digital literacy, these platforms help students become more independent learners while also improving teamwork, communication, and problem-solving abilities, which are essential for academic success and future careers.
+
+## Module 4 Summary
+Email etiquette and social media etiquette are important aspects of digital literacy, as they help individuals communicate respectfully and professionally online. Proper email etiquette includes using a clear subject line, a polite greeting, a well-structured message, and a professional sign-off. It also involves being concise, respectful, and checking for errors before sending emails, especially in academic or professional settings.
+
+Similarly, social media etiquette focuses on responsible and mindful behavior while interacting online. This includes thinking before posting, avoiding offensive or misleading content, respecting others’ opinions, and protecting personal information. Maintaining a positive digital footprint and avoiding oversharing are also key aspects.
+
+In the context of digital literacy, understanding these etiquettes helps students build a professional image, avoid misunderstandings, and communicate effectively. It ensures that their online presence remains respectful, safe, and suitable for both academic and future professional environments.
+
+## Module 5 Summary
+Awareness of cybercrime and financial fraud is a crucial part of digital literacy, as it helps individuals stay safe while using digital platforms. Common cyber threats include phishing, identity theft, cyberbullying, and online payment scams. Financial fraud, especially related to UPI and online transactions, often involves fake links, OTP scams, or impersonation of banks and service providers.
+
+Being digitally literate means recognizing suspicious messages, avoiding unknown links, and never sharing sensitive information like passwords, OTPs, or bank details. It also involves verifying sources before making payments and using secure, trusted apps for transactions.
+
+In the context of digital literacy, this awareness helps students protect their personal and financial information, avoid scams, and respond appropriately if a fraud occurs. Knowing about reporting platforms like the National Cyber Crime Portal and helpline 1930 further strengthens their ability to act quickly and responsibly.
+
+## Link for the task 3 quiz
+
+https://docs.google.com/forms/d/e/1FAIpQLScRS984LYrrmgFsNZyXSgxY6PiHADOQkWuFQPYpN4HOE0st6w/viewform?usp=dialog 
