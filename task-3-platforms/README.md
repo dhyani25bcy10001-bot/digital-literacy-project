@@ -8,3 +8,5 @@ These tools are very helpful academically. HackerRank improves logical thinking 
 
 This task made me realize how digital tools can simplify learning and collaboration.
 
+## Link for the task 3 quiz
+https://docs.google.com/forms/d/e/1FAIpQLScRS984LYrrmgFsNZyXSgxY6PiHADOQkWuFQPYpN4HOE0st6w/viewform?usp=dialog
